@@ -15,7 +15,7 @@
 
 ---
 
-## 🟦 About Me
+## About Me
 
 I'm a **Cloud/DevOps Engineer** focused on building, automating, and securing cloud infrastructure across **AWS and Azure**.
 
@@ -23,7 +23,7 @@ My technical journey started from a non-traditional background, and I've deliber
 
 I enjoy taking infrastructure problems apart, understanding **why something breaks**, and building reliable ways to deploy, operate, and secure systems.
 
-### 🎯 Current Focus
+### Current Focus
 
 ☁️ Cloud Infrastructure  
 ⚙️ DevOps & Automation  
@@ -36,7 +36,7 @@ I enjoy taking infrastructure problems apart, understanding **why something brea
 
 ---
 
-## 🟩 Tech Stack
+## Tech Stack
 
 ### ☁️ Cloud
 
@@ -74,7 +74,7 @@ I enjoy taking infrastructure problems apart, understanding **why something brea
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
