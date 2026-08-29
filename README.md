@@ -28,8 +28,7 @@ I enjoy taking infrastructure problems apart, understanding **why something brea
 ☁️ Cloud Infrastructure  
 ⚙️ DevOps & Automation  
 🐧 Linux  
-🐳 Docker & Containers  
-☸️ Kubernetes  
+🐳 Docker & Containers    
 🏗️ Terraform / IaC  
 🔐 Cloud Security & DevSecOps  
 📊 Observability
