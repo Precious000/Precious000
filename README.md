@@ -132,15 +132,6 @@ Practical role-based access control implementation.
 
 </p>
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
-</p>
 
 ---
 
@@ -149,7 +140,5 @@ Practical role-based access control implementation.
 ```text
 Linux ─────────────── ████████████████░░
 Networking ────────── ██████████████░░░░
-Kubernetes ────────── ███████████░░░░░░░
-Databases ─────────── █████████░░░░░░░░░
 Observability ─────── ██████████░░░░░░░░
 Cloud Architecture ── █████████████░░░░░
