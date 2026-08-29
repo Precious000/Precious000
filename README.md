@@ -49,7 +49,6 @@ I enjoy taking infrastructure problems apart, understanding **why something brea
 <p>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions">
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git">
 </p>
